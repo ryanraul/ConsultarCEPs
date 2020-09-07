@@ -279,5 +279,11 @@
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\002-refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\001-logout.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

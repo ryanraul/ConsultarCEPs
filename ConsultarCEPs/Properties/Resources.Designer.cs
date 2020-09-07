@@ -63,6 +63,26 @@ namespace ConsultarCEPs.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _001_logout {
+            get {
+                object obj = ResourceManager.GetObject("_001_logout", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _002_refresh {
+            get {
+                object obj = ResourceManager.GetObject("_002_refresh", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap busca_cep {
             get {
                 object obj = ResourceManager.GetObject("busca_cep", resourceCulture);
