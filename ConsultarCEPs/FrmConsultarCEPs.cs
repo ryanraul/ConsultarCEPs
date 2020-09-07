@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace ConsultarCEPs
 {
-    public partial class Form1 : Form
+    public partial class FrmConsultarCEPs : Form
     {
-        public Form1()
+        public FrmConsultarCEPs()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
